@@ -22,7 +22,7 @@
             "@hooks/*": ["app/hooks/*"],
             "@services/*": ["app/services/*"],
             "@styles/*": ["app/styles/*"],
-            "@types/*": ["app/types/*"],
+            "@custom_types/*": ["app/types/*"],
             "@utils/*": ["app/utils/*"],
         }
     },
